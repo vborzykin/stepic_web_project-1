@@ -2,7 +2,7 @@
 
 Clone project:
 
-    git clone https://github.com/kovtunos/stepic_web_project.git /home/box/web
+    git clone https://github.com/vborzykin/stepic_web_project-1.git /home/box/web
 
 Start project:
 
