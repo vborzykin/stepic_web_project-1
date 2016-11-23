@@ -32,6 +32,9 @@ class AskForm(forms.Form):
         ask.save()
         return ask
 
+    def clean(self):
+        return self.cleaned_data
+
 
 class AnswerForm(forms.Form):
     text = forms.CharField(widget=forms.Textarea)

@@ -36,7 +36,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'autofixture',
-    'debug_toolbar',
     'qa',
 ]
 
